@@ -44,6 +44,7 @@ nav ul li a:hover{
     /* color: orangered; */
 }
 .contact{
+    height: 100vh;
     width: 100%;
     text-align: center;
     margin-top: 200px;
@@ -455,4 +456,5 @@ footer span{
         height: auto;
         padding: 15px;
     }
+
 }
